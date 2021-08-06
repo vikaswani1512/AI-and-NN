@@ -1,0 +1,55 @@
+\documentclass[12pt]{article}
+
+\title{Science of pseudoscience}
+\author{Vikas Kumar Wani}
+\setlength{\parskip}{0.6em}
+\setlength{\parindent}{1.5em}
+\begin{document}
+\maketitle
+\subsection*{What is pseudoscience}
+Pseudoscience is any statement or belief that people claimed to be scientifically and factually true.It contains of statement that are not factually correct people still puts effort to try to prove it to be true.it is called Pseudoscience as it means fake science or fake knowledge because people puts biased arguments and practical experiments to prove it to be true.
+\subsection*{How it is different from science}
+Science is basically the understand about the statement and try to prove it to be true by some mathematical and factual formulation along with some practical experiments.Although it seems to be similar to the pseudoscience but there is difference in the approach.
+\par
+In science we consider any statement to be false if we get some counter-proof by some experiments or logical derivations.It is also bias-free approach.For example in scientific community "3x+1" problem is not considered to be proven true although we have proved it to be true for almost 300 trillions of digits.
+\par
+In pseudoscientific approach we doesn't consider our statement to be false even after counter-examples and proofs.In this approach we try to find evidence to support our statement and ignores any arguments that try to disprove it.
+\subsection*{Climate Change}
+\section*{Introduction}
+Climate change denial, or global warming denial, is denial, dismissal, or unwarranted doubt that contradicts the scientific consensus on climate change, including the extent to which it is caused by humans, its effects on nature and human society, or the potential of adaptation to global warming by human actions.
+
+\section*{How AI can support existence of Climate Change}
+
+\begin{enumerate}
+
+\item  Improve deforestation tracking:
+Deforestation contributes to roughly 10 \% of global greenhouse-gas emissions, but tracking and preventing it is usually a tedious manual process that takes place on the ground. Satellite imagery and computer vision can automatically analyze the loss of tree cover at a much greater scale, and sensors on the ground, combined with algorithms for detecting chainsaw sounds, can help local law enforcement stop illegal activity.
+
+\item Tools to Help Understand Carbon Footprint:
+AI can help build tools to help individuals and companies understand their carbon footprint and what actions they can take to reduce it, which can be a major obstacle to designing and implementing effective mitigation strategies. AI can automate the analysis of images of power plants to get regular updates on emissions. It also introduces new ways to measure a plant’s impact, by crunching numbers of nearby infrastructure and electricity use.
+
+\item When combined with satellite imagery, AI can detect changes in land use, vegetation, forest cover, and the fallout of natural disasters and make weather forecasts to make informed policy decisions.
+
+
+\end{enumerate}
+
+\section*{How AI can help Tackle Climate Change}
+
+\begin{enumerate}
+
+\item Improve Energy Efficiency:
+Use of machine learning to optimize energy generation and demand in real-time; better grid systems with increased predictability and increased efficiency, and use of renewable energy. 
+
+\item Transportation More Efficient: 
+AI is already being used in smart transport and autonomous vehicles, where Machine learning algorithms are used to optimize navigation; increase safety and provide information regarding traffic flows and congestion,thereby curtailing carbon dioxide emissions in the future. 
+
+
+\item Make precision agriculture possible at scale: 
+Growing a single crop on a large swath of land strips the soil of nutrients and reduces its productivity, which leads to heavy use of nitrogen-based fertilizers, which can convert into nitrous oxide, a greenhouse gas 300 times more potent than carbon dioxide. Machine-learning software could help farmers manage a mix of crops more effectively at scale, while algorithms could help farmers predict what crops to plant when, regenerating the health of their land and reducing the need for fertilizers.
+
+\item Predict extreme weather events: Many of the biggest effects of climate change in the coming decades will be changes in cloud cover and ice sheet dynamics. Modelling these changes can help scientists predict extreme weather events, like droughts and hurricanes, which in turn will help governments protect against their worst effects.
+
+
+\end{enumerate}
+
+\end{document}
